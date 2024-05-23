@@ -35,7 +35,7 @@ class Bill{
         }
         }
         }
-
+// the display function is made by other team member.
         void display(){
             cout<<" Everyone needs to pay the amount as following:"<<endl;
             for(auto f= payment.begin(); f!=payment.end() ; f++){
