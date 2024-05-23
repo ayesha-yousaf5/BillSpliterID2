@@ -1,13 +1,13 @@
 # BillSpliterID2
 BillSplitterID2 is a project
-........What is In Project......  
- < -  - - - - DATA STRUCTURE USED------>
+                                    ........What is In Project......  
+                                   < -  - - - - DATA STRUCTURE USED------>
  the data structure used in this project is 
  # unordered maps
-          The uordered mapping is one of the most suitable data structure to store the values in key value pair form.
-          The unorder mapping maintains no sequence in the elements(key-value pair).
+         The uordered mapping is one of the most suitable data structure to store the values in key value pair form.
+         The unorder mapping maintains no sequence in the elements(key-value pair).
 # it is an STL container that stores elements by combining the key value and a mapped value. the mapped value is associated with a key. yhe key value is used to identify the elements.
- < - - - - - ABOUT THE PROJECT- - - - ->
+                                 < - - - - - ABOUT THE PROJECT- - - - ->
  # splits the bill among all the friend
  # the payer will bill the complete amount
  # Inputs
