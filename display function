@@ -1,0 +1,19 @@
+void display(){
+            cout<<" Everyone needs to pay the amount as following:"<<endl;
+            for(auto f= payment.begin(); f!=payment.end() ; f++){
+                string friends= f->first;
+                double balance= f->second;
+
+            
+            if(balance>0){
+                cout<<friends<<" =  need to collect rupees: "<<balance<<endl;
+            }
+            else if(balance<0){
+                cout<<friends<<"  =  need to pay rupees: "<<-balance<<endl;
+            }
+            else{
+                cout<<friends<<" = no balance"<<endl;
+            }
+
+        }
+}
