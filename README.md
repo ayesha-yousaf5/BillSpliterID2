@@ -23,11 +23,15 @@ BillSplitterID2 is a project
    > unordered map
    > calculate function
    > display funtion
-  # ** < - -Calculate function - ->**
+  
+   
+                    ** < - -Calculate function - ->**
    In calculate function, inputs are taken from users as mentioned above.
    The total amount taken from user is divided with total friends except the payer
    Split amount is added into the payer, payee and other friends balance respectively.
    The payer pays the full amount of the bill.
+                    
+                     
                      ** < - -Display function - ->**
    the balance of all friends and payer is displayed
    " the key value points to friends name."
