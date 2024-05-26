@@ -48,6 +48,12 @@ BillSplitterID2 is a project
    the both functions of calculate() and display are called in main with the object b1.
 
 <- - - - - - That's how we created and completed our ever first project in DSA - - - - - >
-# please ignore the negligences and other mistakes
+                                  
+                                  
+                                  please ignore the negligences and other mistakes
 
  if anyone wants to run the project then can run in any IDE by using two files named as ProjectID2.cpp and projectmain.cpp. 
+
+<img width="727" alt="Screenshot 2024-05-26 100112" src="https://github.com/ayesha-yousaf5/BillSpliterID2/assets/147921490/0acbab4f-44de-441b-ab1d-f988dcab66dc">
+(This screenshot is real output of the project. please ignore LMS uploaded outputs.)
+ 
