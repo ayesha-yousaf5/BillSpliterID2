@@ -12,7 +12,7 @@ BillSplitterID2 is a project
   the payer will bill the complete amount
  # Inputs
         first the following inputs are taken from user that are written in calculate function.
-   1.number of friends (including payer)
+   1.number of friends (including payer and payee)
    2.payer
    3. payee 
    4. amount to pay in resturant
@@ -26,9 +26,9 @@ BillSplitterID2 is a project
   # ** < - -Calculate function - ->**
    In calculate function, inputs are taken from users as mentioned above.
    The total amount taken from user is divided with total friends except the payer
-   Split amount is added into the payer, payee and friends balance respectively.
+   Split amount is added into the payer, payee and other friends balance respectively.
    The payer pays the full amount of the bill.
-   ** < - -Display function - ->**
+                     ** < - -Display function - ->**
    the balance of all friends and payer is displayed
    " the key value points to friends name."
    " the mapped value points to the balance respectively."
