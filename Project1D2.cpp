@@ -25,17 +25,18 @@ class Bill{
 
     splitAmount= amount/(n-1);
     payment[payer]-=amount; 
-    payment[payee]+=splitAmount;
+    payment[payee]-=splitAmount;
 
-    for(int i =0 ; i<n ; i++){
+    for(int i =0 ; i<n-2 ; i++){
         cout<<"Enter your friends name: "<<endl;
         cin>>friends;
+
         if(friends!= payer && friends!= payee){
             payment[friends]-=splitAmount;
         }
         }
         }
-// the display function is made by other team member.
+
         void display(){
             cout<<" Everyone needs to pay the amount as following:"<<endl;
             for(auto f= payment.begin(); f!=payment.end() ; f++){
