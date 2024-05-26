@@ -54,6 +54,7 @@ BillSplitterID2 is a project
 
  if anyone wants to run the project then can run in any IDE by using two files named as ProjectID2.cpp and projectmain.cpp. 
 
-<img width="727" alt="Screenshot 2024-05-26 100112" src="https://github.com/ayesha-yousaf5/BillSpliterID2/assets/147921490/0acbab4f-44de-441b-ab1d-f988dcab66dc">
-(This screenshot is real output of the project. please ignore LMS uploaded outputs.)
+
+(This screenshot is real output of the project. please ignore LMS upl<img width="727" alt="Screenshot 2024-05-26 100112" src="https://github.com/ayesha-yousaf5/BillSpliterID2/assets/147921490/318ec0f5-d43b-462b-8826-1ec4d6708f23">
+oaded outputs.)
  
