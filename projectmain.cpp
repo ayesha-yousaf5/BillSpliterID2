@@ -26,6 +26,9 @@ int main() {
         string payer;
         cout << "Enter the name of the payer: "<<endl;
         getline(cin, payer);
+         if (b1.p1.find(payer) == b1.p1.end()) {
+        cout << "\n Warning!!!  The " << payer << " is not among the friends, but now added as a friend.\n" << endl;
+        b1.add(payer);}
 
         int npayee;
         cout << "Enter the number of payee: "<<endl;
